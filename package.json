@@ -1,0 +1,23 @@
+{
+  "name": "houndify-smart-mirror",
+  "version": "1.0.0",
+  "description": "Houndify Smart Mirror",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "SoundHound Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "0.0.3",
+    "moment": "2.13.0",
+    "net": "1.0.2",
+    "react": "0.14.5",
+    "react-native": "0.25.1",
+    "react-native-animatable": "0.6.1",
+    "react-native-vector-icons": "2.0.2",
+    "react-perf": "1.0.1",
+    "request": "2.72.0",
+    "url": "0.11.0"
+  }
+}
